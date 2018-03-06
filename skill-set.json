@@ -1,0 +1,39 @@
+{
+  "skills": [
+    {
+      "skill": "HTML",
+      "value": "90",
+      "description": "lorem posem dat hello sda kia wer"
+    },
+    {
+      "skill": "CSS",
+      "value": "30",
+      "description": "lorem posem dat hello sda kia wer"
+    },
+    {
+      "skill": "JavaScript",
+      "value": "70",
+      "description": "lorem posem dat hello sda kia wer"
+    },
+    {
+      "skill": "Photoshop",
+      "value": "100",
+      "description": "lorem posem dat hello sda kia wer"
+    },
+    {
+      "skill": "jQuery",
+      "value": "23",
+      "description": "lorem posem dat hello sda kia wer"
+    },
+    {
+      "skill": "PHP / MySQLi",
+      "value": "50",
+      "description": "lorem posem dat hello sda kia wer"
+    },
+    {
+      "skill": "Others",
+      "value": "10",
+      "description": "lorem posem dat hello sda kia wer"
+    }
+  ]
+}
